@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GAjC+SNXpbY21g1awoo/gBQDzMLCxdCCeSbOtRhzY10pdG1uJK2NHHgwo4jSVlTSYLH4EyABhP7eOLJAbnAJZw==",
+  "success": true,
+  "projectFilePath": "/root/dummy-dotnet-core/Dummy.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

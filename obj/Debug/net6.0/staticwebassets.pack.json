@@ -1,0 +1,1565 @@
+{
+  "Files": [
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/css/site.min.css",
+      "PackagePath": "staticwebassets/css/site.min.css"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/images/banner1.svg",
+      "PackagePath": "staticwebassets/images/banner1.svg"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/images/banner2.svg",
+      "PackagePath": "staticwebassets/images/banner2.svg"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/images/banner3.svg",
+      "PackagePath": "staticwebassets/images/banner3.svg"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/images/banner4.svg",
+      "PackagePath": "staticwebassets/images/banner4.svg"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/js/site.bundle.js",
+      "PackagePath": "staticwebassets/js/site.bundle.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/js/site.min.js",
+      "PackagePath": "staticwebassets/js/site.min.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/.bower.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/.bower.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/CHANGELOG.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/CHANGELOG.md"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/Gruntfile.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/Gruntfile.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/README.md",
+      "PackagePath": "staticwebassets/lib/bootstrap/README.md"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/bower.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/bower.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-theme.css"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-theme.css.map"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-theme.min.css"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/dist/js/npm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/npm.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/lib/bootstrap/fonts/glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/lib/bootstrap/fonts/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/lib/bootstrap/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/grunt/.jshintrc",
+      "PackagePath": "staticwebassets/lib/bootstrap/grunt/.jshintrc"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/grunt/bs-commonjs-generator.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/grunt/bs-commonjs-generator.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/grunt/bs-glyphicons-data-generator.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/grunt/bs-glyphicons-data-generator.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/grunt/bs-lessdoc-parser.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/grunt/bs-lessdoc-parser.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/grunt/bs-raw-files-generator.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/grunt/bs-raw-files-generator.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/grunt/configBridge.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/grunt/configBridge.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/grunt/sauce_browsers.yml",
+      "PackagePath": "staticwebassets/lib/bootstrap/grunt/sauce_browsers.yml"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/.jscsrc",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/.jscsrc"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/.jshintrc",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/.jshintrc"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/affix.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/affix.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/alert.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/alert.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/button.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/button.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/carousel.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/carousel.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/collapse.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/collapse.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/dropdown.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/dropdown.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/modal.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/modal.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/popover.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/popover.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/scrollspy.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/scrollspy.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/tab.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tab.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/tooltip.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/tooltip.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/js/transition.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/transition.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/.csscomb.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/.csscomb.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/.csslintrc",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/.csslintrc"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/alerts.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/alerts.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/badges.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/badges.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/bootstrap.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/bootstrap.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/breadcrumbs.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/breadcrumbs.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/button-groups.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/button-groups.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/buttons.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/buttons.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/carousel.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/carousel.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/close.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/close.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/code.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/code.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/component-animations.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/component-animations.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/dropdowns.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/dropdowns.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/forms.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/forms.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/glyphicons.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/glyphicons.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/grid.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/grid.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/input-groups.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/input-groups.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/jumbotron.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/jumbotron.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/labels.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/labels.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/list-group.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/list-group.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/media.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/media.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/alerts.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/alerts.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/background-variant.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/background-variant.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/border-radius.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/border-radius.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/buttons.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/buttons.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/center-block.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/center-block.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/clearfix.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/clearfix.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/forms.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/forms.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/gradients.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/gradients.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/grid-framework.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/grid-framework.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/grid.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/grid.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/hide-text.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/hide-text.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/image.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/image.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/labels.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/labels.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/list-group.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/list-group.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/nav-divider.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/nav-divider.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/nav-vertical-align.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/nav-vertical-align.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/opacity.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/opacity.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/pagination.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/pagination.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/panels.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/panels.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/progress-bar.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/progress-bar.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/reset-filter.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/reset-filter.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/reset-text.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/reset-text.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/resize.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/resize.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/responsive-visibility.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/responsive-visibility.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/size.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/size.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/tab-focus.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/tab-focus.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/table-row.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/table-row.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/text-emphasis.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/text-emphasis.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/text-overflow.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/text-overflow.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/mixins/vendor-prefixes.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/mixins/vendor-prefixes.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/modals.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/modals.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/navbar.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/navbar.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/navs.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/navs.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/normalize.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/normalize.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/pager.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/pager.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/pagination.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/pagination.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/panels.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/panels.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/popovers.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/popovers.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/print.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/print.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/progress-bars.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/progress-bars.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/responsive-embed.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/responsive-embed.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/responsive-utilities.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/responsive-utilities.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/scaffolding.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/scaffolding.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/tables.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/tables.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/theme.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/theme.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/thumbnails.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/thumbnails.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/tooltip.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/tooltip.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/type.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/type.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/utilities.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/utilities.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/variables.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/variables.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/less/wells.less",
+      "PackagePath": "staticwebassets/lib/bootstrap/less/wells.less"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/nuget/MyGet.ps1",
+      "PackagePath": "staticwebassets/lib/bootstrap/nuget/MyGet.ps1"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/nuget/bootstrap.less.nuspec",
+      "PackagePath": "staticwebassets/lib/bootstrap/nuget/bootstrap.less.nuspec"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/nuget/bootstrap.nuspec",
+      "PackagePath": "staticwebassets/lib/bootstrap/nuget/bootstrap.nuspec"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/package.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/package.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/bootstrap/package.json",
+      "PackagePath": "staticwebassets/lib/bootstrap/package.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation-unobtrusive/.bower.json",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/.bower.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation-unobtrusive/bower.json",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/bower.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/.bower.json",
+      "PackagePath": "staticwebassets/lib/jquery-validation/.bower.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/CONTRIBUTING.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/CONTRIBUTING.md"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/Gruntfile.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/Gruntfile.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/README.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/README.md"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/bower.json",
+      "PackagePath": "staticwebassets/lib/jquery-validation/bower.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/build/release.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/build/release.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/changelog.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/changelog.md"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/package.json",
+      "PackagePath": "staticwebassets/lib/jquery-validation/package.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/accept.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/accept.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/additional.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/additional.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/alphanumeric.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/alphanumeric.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/bankaccountNL.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/bankaccountNL.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/bankorgiroaccountNL.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/bankorgiroaccountNL.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/bic.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/bic.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/cifES.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/cifES.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/cpfBR.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/cpfBR.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/creditcard.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/creditcard.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/creditcardtypes.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/creditcardtypes.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/currency.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/currency.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/dateFA.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/dateFA.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/dateITA.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/dateITA.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/dateNL.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/dateNL.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/extension.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/extension.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/giroaccountNL.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/giroaccountNL.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/iban.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/iban.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/integer.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/integer.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/ipv4.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/ipv4.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/ipv6.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/ipv6.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/lettersonly.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/lettersonly.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/letterswithbasicpunc.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/letterswithbasicpunc.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/mobileNL.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/mobileNL.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/mobileUK.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/mobileUK.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/nieES.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/nieES.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/nifES.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/nifES.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/notEqualTo.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/notEqualTo.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/nowhitespace.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/nowhitespace.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/pattern.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/pattern.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/phoneNL.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/phoneNL.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/phoneUK.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/phoneUK.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/phoneUS.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/phoneUS.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/phonesUK.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/phonesUK.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/postalCodeCA.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/postalCodeCA.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/postalcodeBR.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/postalcodeBR.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/postalcodeIT.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/postalcodeIT.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/postalcodeNL.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/postalcodeNL.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/postcodeUK.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/postcodeUK.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/require_from_group.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/require_from_group.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/skip_or_fill_minimum.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/skip_or_fill_minimum.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/statesUS.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/statesUS.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/strippedminlength.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/strippedminlength.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/time.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/time.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/time12h.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/time12h.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/url2.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/url2.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/vinUS.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/vinUS.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/zipcodeUS.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/zipcodeUS.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/additional/ziprange.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/additional/ziprange.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/ajax.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/ajax.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/core.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/core.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_ar.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_ar.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_bg.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_bg.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_bn_BD.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_bn_BD.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_ca.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_ca.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_cs.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_cs.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_da.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_da.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_de.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_de.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_el.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_el.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_es.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_es.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_es_AR.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_es_AR.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_es_PE.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_es_PE.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_et.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_et.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_eu.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_eu.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_fa.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_fa.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_fi.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_fi.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_fr.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_fr.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_ge.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_ge.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_gl.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_gl.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_he.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_he.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_hr.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_hr.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_hu.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_hu.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_hy_AM.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_hy_AM.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_id.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_id.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_is.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_is.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_it.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_it.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_ja.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_ja.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_ka.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_ka.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_kk.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_kk.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_ko.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_ko.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_lt.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_lt.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_lv.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_lv.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_mk.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_mk.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_my.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_my.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_nl.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_nl.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_no.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_no.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_pl.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_pl.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_pt_BR.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_pt_BR.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_pt_PT.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_pt_PT.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_ro.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_ro.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_ru.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_ru.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_si.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_si.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_sk.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_sk.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_sl.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_sl.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_sr.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_sr.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_sr_lat.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_sr_lat.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_sv.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_sv.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_th.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_th.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_tj.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_tj.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_tr.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_tr.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_uk.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_uk.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_vi.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_vi.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_zh.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_zh.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/messages_zh_TW.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/messages_zh_TW.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/methods_de.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/methods_de.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/methods_es_CL.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/methods_es_CL.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/methods_fi.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/methods_fi.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/methods_nl.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/methods_nl.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/src/localization/methods_pt.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/src/localization/methods_pt.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery-validation/validation.jquery.json",
+      "PackagePath": "staticwebassets/lib/jquery-validation/validation.jquery.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/.bower.json",
+      "PackagePath": "staticwebassets/lib/jquery/.bower.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/AUTHORS.txt",
+      "PackagePath": "staticwebassets/lib/jquery/AUTHORS.txt"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/README.md",
+      "PackagePath": "staticwebassets/lib/jquery/README.md"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/bower.json",
+      "PackagePath": "staticwebassets/lib/jquery/bower.json"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/sizzle/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/sizzle/LICENSE.txt"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/sizzle/dist/sizzle.js",
+      "PackagePath": "staticwebassets/lib/jquery/sizzle/dist/sizzle.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/sizzle/dist/sizzle.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/sizzle/dist/sizzle.min.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/sizzle/dist/sizzle.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/sizzle/dist/sizzle.min.map"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/.jshintrc",
+      "PackagePath": "staticwebassets/lib/jquery/src/.jshintrc"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/ajax.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/ajax/jsonp.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/jsonp.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/ajax/load.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/load.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/ajax/parseJSON.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/parseJSON.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/ajax/parseXML.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/parseXML.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/ajax/script.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/script.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/ajax/var/location.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/var/location.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/ajax/var/nonce.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/var/nonce.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/ajax/var/rquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/var/rquery.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/ajax/xhr.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/ajax/xhr.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/attributes.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/attributes/attr.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes/attr.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/attributes/classes.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes/classes.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/attributes/prop.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes/prop.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/attributes/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes/support.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/attributes/val.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/attributes/val.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/callbacks.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/callbacks.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/core.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/core/DOMEval.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/DOMEval.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/core/access.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/access.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/core/init.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/init.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/core/parseHTML.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/parseHTML.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/core/ready.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/ready.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/core/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/support.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/core/var/rsingleTag.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/core/var/rsingleTag.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/addGetHookIf.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/addGetHookIf.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/adjustCSS.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/adjustCSS.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/curCSS.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/curCSS.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/defaultDisplay.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/defaultDisplay.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/showHide.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/showHide.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/support.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/var/cssExpand.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/cssExpand.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/var/getStyles.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/getStyles.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/var/isHidden.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/isHidden.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/var/rmargin.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/rmargin.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/var/rnumnonpx.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/rnumnonpx.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/css/var/swap.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/css/var/swap.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/data.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/data/Data.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data/Data.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/data/accepts.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data/accepts.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/data/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data/support.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/data/var/acceptData.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data/var/acceptData.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/data/var/dataPriv.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data/var/dataPriv.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/data/var/dataUser.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/data/var/dataUser.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/deferred.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/deferred.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/deferred/exceptionHook.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/deferred/exceptionHook.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/deprecated.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/deprecated.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/dimensions.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/dimensions.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/effects.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/effects.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/effects/Tween.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/effects/Tween.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/effects/animatedSelector.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/effects/animatedSelector.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/effects/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/effects/support.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/event.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/event.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/event/ajax.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/event/ajax.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/event/alias.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/event/alias.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/event/focusin.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/event/focusin.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/event/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/event/support.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/event/trigger.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/event/trigger.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/exports/amd.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/exports/amd.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/exports/global.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/exports/global.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/intro.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/intro.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/jquery.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/_evalUrl.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/_evalUrl.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/buildFragment.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/buildFragment.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/createSafeFragment.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/createSafeFragment.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/getAll.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/getAll.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/setGlobalEval.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/setGlobalEval.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/support.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/var/nodeNames.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/var/nodeNames.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/var/rcheckableType.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/var/rcheckableType.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/var/rleadingWhitespace.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/var/rleadingWhitespace.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/var/rscriptType.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/var/rscriptType.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/var/rtagName.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/var/rtagName.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/manipulation/wrapMap.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/manipulation/wrapMap.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/offset.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/offset.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/outro.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/outro.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/queue.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/queue.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/queue/delay.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/queue/delay.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/selector-native.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/selector-native.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/selector-sizzle.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/selector-sizzle.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/selector.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/selector.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/serialize.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/serialize.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/support.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/traversing.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/traversing.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/traversing/findFilter.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/traversing/findFilter.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/traversing/var/dir.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/traversing/var/dir.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/traversing/var/rneedsContext.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/traversing/var/rneedsContext.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/traversing/var/siblings.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/traversing/var/siblings.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/arr.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/arr.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/class2type.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/class2type.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/concat.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/concat.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/deletedIds.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/deletedIds.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/document.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/document.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/documentElement.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/documentElement.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/hasOwn.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/hasOwn.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/indexOf.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/indexOf.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/pnum.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/pnum.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/push.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/push.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/rcssNum.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/rcssNum.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/rnotwhite.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/rnotwhite.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/slice.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/slice.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/support.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/support.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/var/toString.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/var/toString.js"
+    },
+    {
+      "Id": "/root/dummy-dotnet-core/wwwroot/lib/jquery/src/wrap.js",
+      "PackagePath": "staticwebassets/lib/jquery/src/wrap.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Dummy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Dummy.props",
+      "PackagePath": "build\\Dummy.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Dummy.props",
+      "PackagePath": "buildMultiTargeting\\Dummy.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Dummy.props",
+      "PackagePath": "buildTransitive\\Dummy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
