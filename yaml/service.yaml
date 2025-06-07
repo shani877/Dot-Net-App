@@ -3,10 +3,9 @@ kind: Service
 metadata:
   name: dotnet-app-service
 spec:
-  type: NodePort
+  type: LoadBalancer
   selector:
     app: dotnet-app
   ports:
     - port: 80
       targetPort: 5000
-      nodePort: 32000   # Optional: specify a port in the NodePort range (30000-32767)
