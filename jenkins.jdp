@@ -1,0 +1,48 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Clean Workspace') {
+            steps {
+                cleanWs()
+            }
+        }
+
+        stage('Git Checkout') {
+            steps {
+                git branch: 'main', url: 'https://github.com/shani877/Dot-Net-App.git'
+            }
+        }
+
+        stage('Build & Test') {
+            steps {
+                sh '''
+                    dotnet restore
+                    dotnet build
+                    dotnet test
+                '''
+            }
+        }
+
+        stage('Docker Build & Push') {
+            steps {
+                withCredentials([usernamePassword(credentialsId: 'docker-cred-id', usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
+                    sh '''
+                        docker build -t shani877/dotnet-app:latest .
+                        docker push shani877/dotnet-app:latest
+                        docker rmi shani877/dotnet-app:latest
+                    '''
+                }
+            }
+        }
+
+        stage('Deploy to Kubernetes') {
+            steps {
+                sh '''
+                    kubectl apply -f yaml/deployment.yaml
+                    kubectl apply -f yaml/service.yaml
+                '''
+            }
+        }
+    }
+}
