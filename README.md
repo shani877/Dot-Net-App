@@ -7,7 +7,18 @@ This repository contains a simple .NET Core application demonstrating basic web 
 
 ## Run Locally (Without Docker)
 
-Follow these steps to clone, restore dependencies, and run the application on your local machine:
+Follow these steps to clone, restore dependencies and run the application on your local machine:
+
+ ```bash
+#Install .NET SDK 6.0
+sudo apt update
+sudo apt install -y wget apt-transport-https software-properties-common
+wget https://packages.microsoft.com/config/ubuntu/22.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+sudo dpkg -i packages-microsoft-prod.deb
+sudo apt update
+sudo apt install -y dotnet-sdk-6.0
+dotnet --version
+```
 
 1. **Clone the repository**
     ```bash
