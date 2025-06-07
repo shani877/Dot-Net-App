@@ -26,7 +26,7 @@ pipeline {
 
         stage('Docker Build & Push') {
             steps {
-                withCredentials([usernamePassword(credentialsId: 'docker-cred-id', usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
+                withCredentials([usernameColonPassword(credentialsId: 'docker-crede', variable: '')]) {
                     sh '''
                         docker build -t shani877/dotnet-app:latest .
                         docker push shani877/dotnet-app:latest
